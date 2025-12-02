@@ -55,3 +55,9 @@ li {
     color: rgb(255, 255, 255);
     font-size: 25px;
 }
+
+/* responsive features */
+@media (max-width:650px) {
+    
+    
+}
